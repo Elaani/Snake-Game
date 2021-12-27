@@ -1,0 +1,16 @@
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.exe
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.deps.json
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.dll
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\ref\Snake.dll
+C:\Users\Forge\source\repos\A05\Snake\bin\Debug\net5.0\Snake.pdb
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.dll
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\ref\Snake.dll
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.pdb
+C:\Users\Forge\source\repos\A05\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
